@@ -1,9 +1,6 @@
 
 import { Tree } from "./Tree.js";
 
-
-
-
 let inputArray = [];
 
 for(let i = 0; i < 17; i++) {
